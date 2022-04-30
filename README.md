@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chiewy23
-- 👀 I’m interested in - C#, JavaScript, History, Fitness, ..args
-- 🌱 I’m currently learning - Python, API Security, Maths & Physics
+- 👀 I’m interested in - C#, Python, History, Fitness, ..args
+- 🌱 I’m currently learning - A lot.
 - 💞️ I’m looking to collaborate on - Anything!
 - 📫 How to reach me - GitHub!
 
