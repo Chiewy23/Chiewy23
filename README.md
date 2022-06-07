@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chiewy23
-- 👀 I’m interested in - C#, Python, History, Fitness, ..args
+- 👀 I’m interested in - C#, Python, JavaScript, History, ..args
 - 🌱 I’m currently learning - A lot.
 - 💞️ I’m looking to collaborate on - Anything!
 - 📫 How to reach me - GitHub!
