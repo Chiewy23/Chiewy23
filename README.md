@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chiewy23
-- 👀 I’m interested in - Programming, History, Maths, Physics, etc...
+- 👀 I’m interested in - Programming, History, Maths, Physics, and much more.
 - 🌱 I’m currently programming in - C#, Python, JavaScript, C/C++.
-- 💞️ I’m looking to collaborate on - Anything related to the above.
+- 💞️ I’m looking to collaborate on - Anything.
 - 📫 How to reach me - GitHub.
 
 <!---
